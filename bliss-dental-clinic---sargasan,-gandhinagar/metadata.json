@@ -1,0 +1,6 @@
+{
+  "name": "Bliss Dental Clinic - Sargasan, Gandhinagar",
+  "description": "Boutique dental clinic in Sargasan, Gandhinagar offering gentle check-ups, dental implants, teeth whitening, cosmetic dentistry, and restorative oral care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
